@@ -8,7 +8,6 @@ const Routes = () => {
     </View>
   )
 }
-
 export default Routes
 
 const styles = StyleSheet.create({})
